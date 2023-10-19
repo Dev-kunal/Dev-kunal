@@ -1,8 +1,8 @@
 - 👋 Hi, I’m kunal
-- 👀 I’m interested in ... ReactJs and Basically MERN Stack
-- 🌱 I’m currently learning ... full Stack Developmet at @neogCamp
+- 👀 A fullstack Javascriot Developer,
+- 🌱 I love building apps for web and have a strong background in JavaScript, React, Node.js, and other web technologies.
 - 📫 How to reach me ... you can mail me at kunaltijare77@gmail.com
-- 📫 How to connect with me ... you can meet me via my twitter https://twitter.com/kunal_tijare 
+
 
 <!---
 Dev-kunal/Dev-kunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
